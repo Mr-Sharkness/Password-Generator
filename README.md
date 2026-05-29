@@ -49,4 +49,4 @@ git clone https://github.com/Mr-Sharkness/Password-Generator.git
 cd Password-Generator
 
 # Запустить приложение
-py "password_generator.py"
+py "Password Generator.py"
