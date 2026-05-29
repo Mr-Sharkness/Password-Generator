@@ -44,8 +44,9 @@
 ```bash
 # Клонировать репозиторий
 git clone https://github.com/Mr-Sharkness/Password-Generator.git
+
 # Перейти в папку проекта
-cd password-generator-python
+cd Password-Generator
 
 # Запустить приложение
 py "password_generator.py"
